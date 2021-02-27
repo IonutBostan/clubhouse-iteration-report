@@ -35,4 +35,4 @@ jobs:
           user_name: "github-actions"
           user_email: "github-actions@users.noreply.github.com"
           github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
-          repository: ${{ GITHUB_REPOSITORY }}
+          repository: $GITHUB_REPOSITORY
