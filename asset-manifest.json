@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ae76075.chunk.css",
-    "main.js": "/static/js/main.14af073f.chunk.js",
-    "main.js.map": "/static/js/main.14af073f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b0d8771d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b0d8771d.js.map",
-    "static/css/2.1e58ee36.chunk.css": "/static/css/2.1e58ee36.chunk.css",
-    "static/js/2.b7143771.chunk.js": "/static/js/2.b7143771.chunk.js",
-    "static/js/2.b7143771.chunk.js.map": "/static/js/2.b7143771.chunk.js.map",
-    "static/js/3.4df7b1c7.chunk.js": "/static/js/3.4df7b1c7.chunk.js",
-    "static/js/3.4df7b1c7.chunk.js.map": "/static/js/3.4df7b1c7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.1e58ee36.chunk.css.map": "/static/css/2.1e58ee36.chunk.css.map",
-    "static/css/main.7ae76075.chunk.css.map": "/static/css/main.7ae76075.chunk.css.map",
-    "static/js/2.b7143771.chunk.js.LICENSE.txt": "/static/js/2.b7143771.chunk.js.LICENSE.txt"
+    "main.css": "/clubhouse-iteration-report/static/css/main.7ae76075.chunk.css",
+    "main.js": "/clubhouse-iteration-report/static/js/main.14af073f.chunk.js",
+    "main.js.map": "/clubhouse-iteration-report/static/js/main.14af073f.chunk.js.map",
+    "runtime-main.js": "/clubhouse-iteration-report/static/js/runtime-main.c1c2dbfe.js",
+    "runtime-main.js.map": "/clubhouse-iteration-report/static/js/runtime-main.c1c2dbfe.js.map",
+    "static/css/2.1e58ee36.chunk.css": "/clubhouse-iteration-report/static/css/2.1e58ee36.chunk.css",
+    "static/js/2.a415260a.chunk.js": "/clubhouse-iteration-report/static/js/2.a415260a.chunk.js",
+    "static/js/2.a415260a.chunk.js.map": "/clubhouse-iteration-report/static/js/2.a415260a.chunk.js.map",
+    "static/js/3.4df7b1c7.chunk.js": "/clubhouse-iteration-report/static/js/3.4df7b1c7.chunk.js",
+    "static/js/3.4df7b1c7.chunk.js.map": "/clubhouse-iteration-report/static/js/3.4df7b1c7.chunk.js.map",
+    "index.html": "/clubhouse-iteration-report/index.html",
+    "static/css/2.1e58ee36.chunk.css.map": "/clubhouse-iteration-report/static/css/2.1e58ee36.chunk.css.map",
+    "static/css/main.7ae76075.chunk.css.map": "/clubhouse-iteration-report/static/css/main.7ae76075.chunk.css.map",
+    "static/js/2.a415260a.chunk.js.LICENSE.txt": "/clubhouse-iteration-report/static/js/2.a415260a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0d8771d.js",
+    "static/js/runtime-main.c1c2dbfe.js",
     "static/css/2.1e58ee36.chunk.css",
-    "static/js/2.b7143771.chunk.js",
+    "static/js/2.a415260a.chunk.js",
     "static/css/main.7ae76075.chunk.css",
     "static/js/main.14af073f.chunk.js"
   ]
