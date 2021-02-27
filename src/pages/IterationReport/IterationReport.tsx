@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Button, Input } from "antd";
+import { Button, Input, Typography } from "antd";
 import { aggregateChData as aggregateIterationsData } from "./ClubhouseDataTransform";
 import { Column, Row, CustomRow } from "./ClubhouseGraphics.style";
 import { PlusOutlined } from "@ant-design/icons";
@@ -9,6 +9,7 @@ import { IterationDetails } from "./IterationDetails";
 import { useLocalStorage } from "hooks";
 import { clubhouseIterationSample } from "constants/iterations";
 import { IterationGeneralReport } from "./IterationGeneralReport";
+const { Title } = Typography;
 
 const {
   unstartedStates: defaultUnstartedStates,
@@ -44,6 +45,7 @@ export const IterationReport = () => {
 
   return (
     <Column>
+      <Title level={3}>Clubhouse iterations report</Title>
       <CustomRow>
         <span>Todo States:</span>
         <Input
