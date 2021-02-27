@@ -25,7 +25,7 @@ declare global {
     position?: number;
     type?: string;
     updated_at?: string;
-    verb?: string;
+    verb: string | null;
   };
 
   type Workflow = {
